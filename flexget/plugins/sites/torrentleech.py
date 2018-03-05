@@ -25,19 +25,25 @@ CATEGORIES = {
 
     # Movies
     'Cam': 8,
-    'TS': 9,
-    'R5': 10,
-    'DVDRip': 11,
-    'DVDR': 12,
-    'HD': 13,
-    'BDRip': 14,
-    'Movie Boxsets': 15,
+    'TS_TC': 9,
+    'DVDRip_DVDScreener': 11,
+    'WebRip': 37,
+    'HDRip': 43,
+    'BlurayRip': 14,
+    'DVD-R': 12,
+    'Bluray': 13,
+    '4KUpscaled': 41,
+    'Real_4K': 47,
+    'Boxset': 15,
     'Documentaries': 29,
+    'Foreign': 36,
 
     # TV
     'Episodes': 26,
     'TV Boxsets': 27,
-    'Episodes HD': 32
+    'Episodes HD': 32,
+    'TV_Foreign': 44
+
 }
 
 
