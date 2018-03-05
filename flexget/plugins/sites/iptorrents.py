@@ -34,19 +34,29 @@ CATEGORIES = {
     'Movie-Non-English': 38,
     'Movie-Packs': 68,
     'Movie-XviD': 17,
+    'Movie-4K': 101,
+    'Movie-x265': 100,
+    'Movie-Web-DL':20,
+    'Movie-Cam': 96,
+    'Movei-Xvid': 7,
 
     # TV
     'TV-all': 73,
     'TV-Sports': 55,
     'TV-480p': 78,
-    'TV-MP4': 66,
+    'TV-Mobile': 66,
     'TV-Non-English': 82,
     'TV-Packs': 65,
     'TV-Packs-Non-English': 83,
     'TV-SD-x264': 79,
     'TV-x264': 5,
     'TV-XVID': 4,
-    'TV-Web-DL': 22
+    'TV-Web-DL': 22,
+    'TV-Documentaries': 26,
+    'TV-DVD-R': 24,
+    'TV-DVD-Rip': 25,
+    'TV-x265': 99,
+    'TV-BD': 23
 }
 
 BASE_URL = 'https://iptorrents.com'
